@@ -1,0 +1,14 @@
+Z:\apbd\cwiczenia3\cwiczenia3\bin\Debug\net8.0\cwiczenia3.exe
+Z:\apbd\cwiczenia3\cwiczenia3\bin\Debug\net8.0\cwiczenia3.deps.json
+Z:\apbd\cwiczenia3\cwiczenia3\bin\Debug\net8.0\cwiczenia3.runtimeconfig.json
+Z:\apbd\cwiczenia3\cwiczenia3\bin\Debug\net8.0\cwiczenia3.dll
+Z:\apbd\cwiczenia3\cwiczenia3\bin\Debug\net8.0\cwiczenia3.pdb
+Z:\apbd\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\apbd\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.AssemblyInfoInputs.cache
+Z:\apbd\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.AssemblyInfo.cs
+Z:\apbd\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.csproj.CoreCompileInputs.cache
+Z:\apbd\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.dll
+Z:\apbd\cwiczenia3\cwiczenia3\obj\Debug\net8.0\refint\cwiczenia3.dll
+Z:\apbd\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.pdb
+Z:\apbd\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.genruntimeconfig.cache
+Z:\apbd\cwiczenia3\cwiczenia3\obj\Debug\net8.0\ref\cwiczenia3.dll
